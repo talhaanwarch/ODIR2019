@@ -14,4 +14,6 @@ Created v1
 Created v2 and v3. 
 In v2 there is sigmoid in last layer, it should be softmax. #check TODO   
 V3 classification report need to be added.  
-V4 is created.  Ben Graham processing is added
+V4 is created.  Ben Graham processing is added  
+# 4/12/9
+v5 with a new loss and metrics
