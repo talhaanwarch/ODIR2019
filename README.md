@@ -4,6 +4,8 @@ Ghina mam thesis code files
 #TODO
 * Can we use sigmoid / binary cross entropy for one hot encoded label as suggested by  
 https://www.kaggle.com/xhlulu/aptos-2019-densenet-keras-starter  
+Following link define we can use them  
+https://stackoverflow.com/a/49175655/11170350  
 * Classsification report is still not working (13/12/19)  
 # 11/12/19
 Created v1
