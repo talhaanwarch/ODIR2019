@@ -7,5 +7,6 @@
 
 
 https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/70365  
+https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/74374
 
 
