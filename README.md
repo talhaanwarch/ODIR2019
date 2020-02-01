@@ -17,3 +17,7 @@ V3 classification report need to be added.
 V4 is created.  Ben Graham processing is added  
 # 4/12/9
 v5 with a new loss and metrics
+
+# TODO  
+2/2/20
+https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/70365
