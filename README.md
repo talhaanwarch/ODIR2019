@@ -10,7 +10,8 @@ https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/703
 https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/74374
 
 
-10/02/20
-Try AMSGRAD and group normalization
+10/02/20  
+Try AMSGRAD and group normalization  
 
 
+https://shaoanlu.wordpress.com/2018/03/26/experiment-with-group-normalization/
