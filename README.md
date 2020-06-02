@@ -1,10 +1,10 @@
 
-Dataset comprises of images of 5000 patients categried into into eight labels including normal (N), diabetes (D), glaucoma (G), cataract (C), AMD (A), hypertension (H), myopia (M) and other diseases/abnormalities (O)
+The purpose of this ODIR challenge is to compare approaches of ophthalmic disease classification in color fundus images. Dataset comprises of images of 5000 patients categried into into eight labels including normal (N), diabetes (D), glaucoma (G), cataract (C), AMD (A), hypertension (H), myopia (M) and other diseases/abnormalities (O)
 ![image distribution](https://grand-challenge-public.s3.amazonaws.com/i/2020/01/21/be3b0252.png)
 
 
 # Final Notebooks
-[working_2.ipynb](https://github.com/talhaanwarch/ODIR2019/blob/master/working_2.ipynb) is the final solution that i submitted. In both notebook we used two paralel EfficientNetB3 architecture one for each eye side. Focal loss is used as loss function and adam as optimizers. 
+[working_2.ipynb](https://github.com/talhaanwarch/ODIR2019/blob/master/working_2.ipynb) is the final solution that i submitted. In this notebook we used two paralel EfficientNetB3 architecture one for each eye side. Focal loss is used as loss function and adam as optimizers. 
 
 # Scores
 "kappa": 0.5198645332075835,
