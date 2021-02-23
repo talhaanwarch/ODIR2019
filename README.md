@@ -4,13 +4,15 @@ The purpose of this ODIR challenge is to compare approaches of ophthalmic diseas
 
 
 # Final Notebooks
-[working_2.ipynb](https://github.com/talhaanwarch/ODIR2019/blob/master/working_2.ipynb) is the final solution that i submitted. In this notebook we used two paralel EfficientNetB3 architecture one for each eye side. Focal loss is used as loss function and adam as optimizers. 
+[working_2.ipynb](https://github.com/talhaanwarch/ODIR2019/blob/master/working_2.ipynb) is the final solution that i submitted. In this notebook we used two paralel EfficientNetB3 architecture one for each eye side. Focal loss is used as loss function and adam as optimizers.   
+[tpu-odir.ipynb](https://github.com/talhaanwarch/ODIR2019/blob/master/tpu-odir.ipynb) is the TPU verison which made us capable of training or large image size and batch size. Unlike the [working_2.ipynb](https://github.com/talhaanwarch/ODIR2019/blob/master/working_2.ipynb) implementation which used tensorflow < 2 , TPU version is trained with tensorflow>= 2.0. Kaggle TPU is used for this task. To rerun the notebook, fork it on kaggle  [here](https://www.kaggle.com/chtalhaanwar/tpu-odir) .
 
 # Scores
-"kappa": 0.5198645332075835,  
-"AUC_vlaue": 0.9078637702944817,  
-"f-1_score": 0.8599999999999999,  
-"Final_Score": 0.7625761011673551  
+
+"kappa": 0.5484336363210259,  
+"AUC_vlaue": 0.9167666361765955,   
+"f-1_score": 0.90125,  
+"Final_Score": 0.7888167574992071  
 
 # Acknowledgement 
 Following are the sources that help me alot while doing this   
